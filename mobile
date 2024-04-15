@@ -1,0 +1,19 @@
+make             processor_speed   RAM_GB   battery_capacity_mAh
+Samsung          2.8 GHz           8        4500
+Apple            3.0 GHz           6        3800
+Google           2.7 GHz           6        4000
+OnePlus          3.2 GHz           12       4500
+Huawei           2.6 GHz           8        4200
+Xiaomi           2.9 GHz           8        5000
+Sony             2.8 GHz           6        4100
+LG               2.5 GHz           6        4200
+Nokia            2.4 GHz           4        3500
+Motorola         2.6 GHz           6        4000
+BlackBerry       2.3 GHz           4        3800
+HTC              2.7 GHz           6        3900
+ASUS             2.8 GHz           8        4300
+OPPO             2.5 GHz           6        4100
+Realme           2.9 GHz           8        4500
+Lenovo           2.4 GHz           6        3800
+ZTE              2.6 GHz           6        4000
+Vivo             2.7 GHz           8        4200
